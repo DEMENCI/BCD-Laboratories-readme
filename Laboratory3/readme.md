@@ -36,27 +36,23 @@
      
  ### Implementation
  
- In order to solve the practical skills I have read the whole material that is given for this laboratory work and I found this material very useful. The first and the second tasks are the theoretical and I can write only the answer.  
-#### So , the answer for the first and second task are :
+#### Answers for tasks are :
  1. b)116,2 because parameters of DECIMAL[P(,S] data type show about : P shows the total number of digits and S shows the number of digits after decimal point.
  2. I think durind this multiplication operation between this 2 coloumns the DECIMAL(2,1) is enough for storing the result of this operation.
  
  Next, I have solved the 3 task. So , for solving this task I have created a database named *universitatea* and performing into this database a 2 tables that are named : *grupe* and *discpline*. For this process I have right clicked on "Databases"-> "New Database" and create this with default properties. Into this database I had a lot of folders , like : Database Diagrams , Tables, Views, External Resources. So , for the second step of this task I have created the 2 tables , I have right clicked on 
  "Tables" -> "New" -> "Table".
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N3/Screens/Exercise3_1.PNG)
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory3/Pictures/1.png)
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N3/Screens/Exercise3_2.PNG)
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory3/Pictures/2.png)
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N3/Screens/Exercise3_3.PNG)
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory3/Pictures/3.png)
  
  In the 4 task I had to perform some actions for records , like : adding , update or delete. So, for adding records to my tables from database I have right clicked on my table and chose the "Edit the 200 rows" , here I have saw that this list is empty and I started to add records.
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N3/Screens/Exercise4_1.PNG)
- 
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N3/Screens/Exercise4_2.PNG)
  
  ### Conclusion
  
-   In this laboratory work I have obtained new skills to work with Management Studio and more exactly working with tables and records , manipulate with fields( adding, deleting, rename and update). I have learned more about data types in SQL and how correctly use them for storing the data. Also, I have learned about constraints, Primary Key , Foreign Key , Unique and what are differences between them.
+   During this laboratory work I have learned more about SQL Management Studio and more exactly working with tables and records , manipulate with fields( adding, deleting, rename and update). I have learned more about data types in SQL and how correctly use them for storing the data. Also, I have learned about constraints, Primary Key , Foreign Key , Unique and what are differences between them.
    What is the purpose of the contraints for databases? So, contraints are the properties and rules for creating database that can be aplied to the coloumn, table for storing the data in the sure manner. Data must protect itself.
