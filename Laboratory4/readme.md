@@ -37,7 +37,7 @@ as well as the identities of the teachers who taught them.
 
 **Task 16**
 
-![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N4/Screens/Ex16.PNG) 
+![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory4/Pictures/task16.png) 
 
 **Task 21**
 
