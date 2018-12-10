@@ -34,26 +34,26 @@
  
  **Task 1** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N11/Screens/Task1.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory11/Pictures/11_1.PNG)  
  
  **Task 2** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N11/Screens/Task2.PNG) 
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory11/Pictures/11_2.PNG) 
  
  
  **Task 3** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N11/Screens/Task3.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory11/Pictures/11_3.PNG)  
  
   
   **Task 4** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N11/Screens/Task4.PNG) 
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory11/Pictures/11_4.PNG) 
 
 
  **Conclusion :** 
 
-In this laboratory work I obtained skills about backup and how to manage with them. Also, I learned about 3 types of backups : 
+During this laboratory work I have obtained skills about backup and how to manage with them. Also, I learned about 3 types of backups : 
 Full, Differential and Log, backup of files, copy-only backup. So, doing backups reguarly you save your data and avoid the case of losing the information. Working with
 Management SQL Studio I found that it is easy to understand and write T-SQL commands for executing the backups. Moreover, there are several 
 types of restoring : from Disk and form stored devices.
