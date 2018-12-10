@@ -57,16 +57,16 @@
 
 Defining the PK-FK for tables, I have also chose the manually way , because is easier and take short time. 
 
- ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory7/Pictures/lab7_5.png) 
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory7/Pictures/lab7_5.PNG) 
  
 **Task 6** 
 
- ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory7/Pictures/lab7_6.png) 
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory7/Pictures/lab7_6.PNG) 
  
  
  **Task 7** 
  
-  ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory7/Pictures/lab7_7.png) 
+  ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory7/Pictures/lab7_7.PNG) 
   
   
  **Task 8** 
