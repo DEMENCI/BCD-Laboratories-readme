@@ -74,7 +74,7 @@ Defining the PK-FK for tables, I have also chose the manually way , because is e
  Before performing this task I have read about synonyms what are their purpose for T-SQL instructions. These are vey useful for writing queries and don;t writing the explicitly location of tables. Also, they are very useful in cases of having more servers which are different located and we need access databases. 
  
 
-![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory7/Pictures/lab7_8.png)
+![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory7/Pictures/lab7_8.PNG)
 
 
 **Conclusion:** 
