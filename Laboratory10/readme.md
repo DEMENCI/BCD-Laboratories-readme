@@ -43,44 +43,44 @@
  
  **Task 1** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N10/Screens/Task1.PNG) 
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory10/Pictures/10_1.PNG) 
 
 
   ### Implementation of tasks: 
  
  **Task 2** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N10/Screens/Task2.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory10/Pictures/10_2.PNG)  
 
   ### Implementation of tasks: 
  
  **Task 3** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N10/Screens/Task3.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory10/Pictures/10_3.PNG)  
 
 
   ### Implementation of tasks: 
  
  **Task 4** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N10/Screens/Task4.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory10/Pictures/10_4.PNG)  
 
   ### Implementation of tasks: 
  
  **Task 5** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N10/Screens/Task5.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory10/Pictures/10_5.PNG)  
 
   ### Implementation of tasks: 
  
  **Task 6** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N10/Screens/Task6.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory10/Pictures/10_6.PNG)  
 
 
  **Conclusion :**  
 
-In this laboratory work I obtained skills operating with triggers and how they work for calling some actions for during 
+During this laboratory work I have obtained skills operating with triggers and how they work for calling some actions for during 
 another. I have studied several types of triggers: DML, DDL and LOGON.Also, I have studied structure of them and how treat the
 problems creating them. I have used the AFTER, INSTEAD OF trigger. For showing some messaged I have used the PRINT command, but 
 it in some cases did not work and I tried to use the Raierror() function with calling of it with PRINT ERROR_MESSAGE().
