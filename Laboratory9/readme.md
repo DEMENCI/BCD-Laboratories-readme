@@ -51,50 +51,50 @@
  
  **Task 1** 
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N9/Screens/Task1.PNG) 
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory9/Pictures/9_1.PNG) 
  
  **Task 2**  
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N9/Screens/Task2.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory9/Pictures/9_2.PNG)  
  
  
  **Task 3**  
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N9/Screens/Task3.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory9/Pictures/9_3.PNG)  
  
  
  **Task 4**  
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N9/Screens/Task4.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory9/Pictures/9_4.PNG)  
  
  
  **Task 5**  
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N9/Screens/Task5.PNG) 
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory9/Pictures/9_5.PNG) 
  
  
  **Task 6**  
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N9/Screens/Task6.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory9/Pictures/9_6.PNG)  
  
  
  **Task 7**  
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N9/Screens/Task7.PNG) 
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory9/Pictures/9_7.PNG) 
 
 
  **Task 8**  
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N9/Screens/Task8.PNG)  
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory9/Pictures/9_8.PNG)  
 
 
  **Task 9**  
  
- ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N9/Screens/Task9.PNG) 
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory9/Pictures/9_9.PNG) 
 
 
  **Conclusion :**  
  
- In this laboratory work I obtained skills operating with stored procedures and defined functions by user which help to optimize the queries.
+ During this laboratory work I have obtained skills operating with stored procedures and defined functions by user which help to optimize the queries.
  Also, I understood the purpose of both of them and how this work. This stored procedures and functions are like the executable of a program, 
  this are program in SQL.
