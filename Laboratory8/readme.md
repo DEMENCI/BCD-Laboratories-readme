@@ -54,11 +54,9 @@
  
  ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory8/Pictures/lab8_6.PNG) 
  
- ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory8/Pictures/lab8_7.PNG) 
- 
  **Task 6** 
  
- ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory8/Pictures/lab8_8.PNG) 
+ ![](https://github.com/DEMENCI/BCD-Laboratories-readme/blob/master/Laboratory8/Pictures/lab8_7.PNG) 
  
  **Conclusion :** 
  
